@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import CatComponent from './CatComponent.js';
 import {GraceHopperQuoteComponent} from './GraceHopperQuoteComponent.js';
